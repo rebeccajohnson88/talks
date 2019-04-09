@@ -1,2 +1,2 @@
-# talks
-Slides for various talks
+# Talks
+This repository contains slides for various talks. Comments welcome!
